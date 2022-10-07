@@ -4,7 +4,7 @@
 
 This repository contains the final project for the Global AI Hub International Python for Machine Learning Bootcamp.
 
-Link to the dataset: 
+Link to the dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 Columns
 
