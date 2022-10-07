@@ -2,23 +2,9 @@
 
 # Python for Machine Learning International Bootcamp
 
+## Medical Cost Insurance Analysis
 This repository contains the final project for the Global AI Hub International Python for Machine Learning Bootcamp.
 
-Link to the dataset: 
+Link to the dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
-Columns
-
-age: age of primary beneficiary
-
-sex: insurance contractor gender, female, male
-
-bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
-objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
-
-children: Number of children covered by health insurance / Number of dependents
-
-smoker: Smoking
-
-region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
-
-charges: Individual medical costs billed by health insurance
+The goal of the project is to find the cost of the insurance based on the given features.
